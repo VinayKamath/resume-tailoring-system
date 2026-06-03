@@ -1,0 +1,20 @@
+Python
+SQL
+Excel
+Tableau
+Power BI
+Git
+GitHub
+Data Analysis
+Data Visualization
+Machine Learning
+Natural Language Processing
+API Integration
+ETL
+Data Cleaning
+Dashboard Development
+Stakeholder Communication
+Agile
+Problem Solving
+Leadership
+Cross-functional Collaboration

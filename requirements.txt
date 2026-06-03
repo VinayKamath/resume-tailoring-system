@@ -1,0 +1,13 @@
+streamlit
+langgraph
+langchain
+langchain-groq
+langchain-text-splitters
+chromadb
+pypdf
+pydantic
+pydantic-settings
+python-dotenv
+tiktoken
+pandas
+numpy
