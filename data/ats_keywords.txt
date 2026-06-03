@@ -1,20 +1,279 @@
-Python
-SQL
-Excel
-Tableau
-Power BI
-Git
-GitHub
+LangChain
+LangGraph
+ChromaDB
+RAG
+Retrieval-Augmented Generation
+Large Language Models
+LLMs
+Generative AI
+Artificial Intelligence
+Prompt Engineering
+Prompt Design
+Prompt Optimization
+Agentic AI
+Multi-Agent Systems
+Workflow Orchestration
+Vector Database
+Embeddings
+Semantic Search
+Context Engineering
+Knowledge Retrieval
+Tool Calling
+LLM Integration
+OpenAI API
+Gemini API
+Groq
+Claude
+Machine Learning
+Deep Learning
+Natural Language Processing
+Computer Vision
+Predictive Analytics
+Feature Engineering
+Feature Selection
+Model Evaluation
+Model Monitoring
+Model Deployment
+Transfer Learning
+Fine-Tuning
+Hyperparameter Tuning
+Recommendation Systems
+Classification
+Regression
+Clustering
 Data Analysis
 Data Visualization
-Machine Learning
-Natural Language Processing
-API Integration
-ETL
 Data Cleaning
+Data Mining
+Statistical Analysis
+Forecasting
+A/B Testing
+Business Analytics
+Root Cause Analysis
+Data Wrangling
 Dashboard Development
-Stakeholder Communication
-Agile
-Problem Solving
+Business Intelligence
+Python
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
+PyTorch
+Keras
+Matplotlib
+Seaborn
+Plotly
+Jupyter
+ETL
+ELT
+Data Pipelines
+Data Warehousing
+Data Lakes
+Apache Spark
+Kafka
+Airflow
+Databricks
+Snowflake
+Big Data
+FastAPI
+REST API
+GraphQL
+Microservices
+Backend Development
+System Design
+Distributed Systems
+Scalable Architecture
+API Integration
+AWS
+Azure
+GCP
+Docker
+Kubernetes
+Terraform
+CI/CD
+DevOps
+Cloud Computing
+Cloud Infrastructure
+Serverless
+EC2
+S3
+Lambda
+Software Engineering
+Object-Oriented Programming
+Data Structures
+Algorithms
+Unit Testing
+Integration Testing
+Version Control
+Git
+GitHub
+GitLab
+Tableau
+Power BI
+Looker
+Google Analytics
+Google Analytics 4
+Excel
+Excel Pivot Tables
+Jira
+Confluence
+Slack
+Microsoft Teams
+Zoom
+Asana
+Trello
+Monday.com
+Salesforce
+HubSpot
+Zoho CRM
+CRM
+Project Management
+Program Management
+Product Management
+Product Strategy
+Roadmapping
+Stakeholder Management
+Strategic Planning
+Business Development
+Process Improvement
+Operations Management
+Budget Management
+ROI
+Return on Investment
+Customer Success
+Customer Experience
 Leadership
-Cross-functional Collaboration
+Team Leadership
+Cross-Functional Collaboration
+Communication
+Written Communication
+Verbal Communication
+Presentation Skills
+Technical Writing
+Documentation
+Problem Solving
+Critical Thinking
+Analytical Thinking
+Decision Making
+Teamwork
+Negotiation
+Mentoring
+Coaching
+Time Management
+Adaptability
+Flexibility
+Remote Work
+Financial Analysis
+Market Research
+Trend Analysis
+Financial Modeling
+Variance Analysis
+Budgeting
+GAAP
+Audit
+Reconciliation
+SOX Compliance
+Google Workspace
+Microsoft Office
+PowerPoint
+Outlook
+Figma
+Canva
+Adobe Creative Suite
+Photoshop
+Illustrator
+Java
+JavaScript
+TypeScript
+C
+C++
+C#
+R
+Go
+Rust
+HTML
+CSS
+SQL
+NoSQL
+MongoDB
+PostgreSQL
+MySQL
+Redis
+Linux
+Unix
+Networking
+Load Balancing
+Authentication
+Authorization
+OAuth
+Monitoring
+Observability
+Incident Management
+Site Reliability Engineering
+SRE
+Performance Optimization
+Cost Optimization
+Data Governance
+Data Quality
+Compliance
+GDPR
+HIPAA
+Workday
+BambooHR
+ADP
+Greenhouse
+Lever
+Talent Acquisition
+Recruiting
+Onboarding
+Employee Relations
+Lead Generation
+Pipeline Management
+Quota Achievement
+SEO
+SEM
+Brand Management
+Content Strategy
+Go-to-Market
+GTM
+Conversion Rate
+Clinical Documentation
+Patient Care
+EHR
+EMR
+Epic
+Cerner
+RN
+LPN
+BLS
+ACLS
+CPR Certified
+Experiment Tracking
+MLOps
+Production Deployment
+Containerization
+Workflow Automation
+Business Process Automation
+Cloud Security
+Cybersecurity
+Data Security
+Information Security
+Feature Store
+Vector Search
+Knowledge Graphs
+Retrieval Systems
+Inference
+Model Serving
+Prompt Chaining
+Agent Frameworks
+Context Windows
+Document Parsing
+PDF Processing
+Resume Optimization
+ATS Scoring
+Keyword Matching
+Skill Gap Analysis
+Resume Tailoring
+Candidate Evaluation
+Job Description Analysis
+Resume Parsing
